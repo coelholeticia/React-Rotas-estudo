@@ -1,0 +1,15 @@
+.lista-menu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap:2rem;
+  list-style: none;
+  background-color: plum;
+  padding: 20px ;
+}
+
+.lista-menu{
+  font-size: 20px;
+}
+

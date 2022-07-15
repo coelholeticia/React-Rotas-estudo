@@ -1,0 +1,32 @@
+.apresentacao{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+}
+
+
+.Minha-foto{
+    height: 300px;
+    border-radius: 40px;  
+}
+
+.text-Intro {
+    padding: 0 50px;
+    font-size: 1.5rem;
+    color: darkgray;
+}
+
+.redes{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   gap: 10px;
+}
+
+.rede{
+    text-decoration: none;
+    font-size: 1.5rem;
+}

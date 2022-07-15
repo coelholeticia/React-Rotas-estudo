@@ -1,0 +1,32 @@
+.repositorios-git{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 100px 0;
+}
+
+.Inpu-repo{
+    padding: 2px 5px;
+}
+
+.lista-repo{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 100px;
+    gap: 80px;
+}
+
+.repositorios-itens{
+    background-color: darkorchid;
+    padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
