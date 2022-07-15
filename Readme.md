@@ -74,6 +74,6 @@ function App() {
 
 export default App;
 ```
-*  [Documentação:](https://reactrouter.com/docs/en/v6)
+*  [Documentação](https://reactrouter.com/docs/en/v6)
 *  [Link repositório da aula](https://github.com/coelholeticia/On17-TodasEmTech-ReactIII)
 * [Veja Aqui como ficou](https://portfolio-leticia-coelho.netlify.app/)
