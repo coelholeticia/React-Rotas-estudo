@@ -74,6 +74,6 @@ function App() {
 
 export default App;
 ```
-Documentação: [React-Router](https://reactrouter.com/docs/en/v6)
-Link Repositorio da aula: [Link-Repositorio](https://github.com/coelholeticia/On17-TodasEmTech-ReactIII)
-[Veja Aqui como ficou](https://portfolio-leticia-coelho.netlify.app/)
+* Documentação: [React-Router](https://reactrouter.com/docs/en/v6)
+* Link Repositorio da aula: [Link-Repositorio](https://github.com/coelholeticia/On17-TodasEmTech-ReactIII)
+* [Veja Aqui como ficou](https://portfolio-leticia-coelho.netlify.app/)
