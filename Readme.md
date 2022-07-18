@@ -1,4 +1,4 @@
-# React - Router 
+# ⭐ React - Router 
 
 * O principal objetivo neste repositório e trabalhar com rotas. 
 Sabe o menu de navegação que te direciona para paginas web diferentes, então é isso.
@@ -74,5 +74,6 @@ function App() {
 
 export default App;
 ```
-Documentação: [React-Router](https://reactrouter.com/docs/en/v6)
-Link Repositorio da aula: [Link-Repositorio](https://github.com/coelholeticia/On17-TodasEmTech-ReactIII)
+*  [Documentação](https://reactrouter.com/docs/en/v6)
+*  [Link repositório da aula](https://github.com/coelholeticia/On17-TodasEmTech-ReactIII)
+* [Veja Aqui como ficou](https://portfolio-leticia-coelho.netlify.app/)
