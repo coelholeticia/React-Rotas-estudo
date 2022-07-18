@@ -1,4 +1,6 @@
 import images from '../../assets/eu.jpeg'
+import { AiFillGithub } from "react-icons/ai";
+import Diario from '../Meu-diario/Diario';
 import './sobre.css'
 
 function Sobre() {
@@ -12,9 +14,10 @@ function Sobre() {
                 Espero que gostem! </p>
             </div>
 
+            <Diario />
+
             <div className='redes'>
-                <a className='rede' href='https://www.linkedin.com/in/coelholetticia/'>⭐Linkedin</a>
-                <a className='rede' href='https://github.com/coelholeticia'>⭐ GitHub</a>
+                <a className='rede' href='https://github.com/coelholeticia'><AiFillGithub /></a>
             </div>
       
         </>

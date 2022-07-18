@@ -1,0 +1,28 @@
+.meme{
+    width: 300px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.text-meme{
+    font-size: 16px;
+    color: dimgray;
+    width: 60%;
+    padding: 10px;
+    border: solid rgb(251, 123, 198);
+}
+
+.text-meme:hover{
+    border: solid purple;
+    color: crimson;
+
+}
+
+.card-1, .card-2, .card-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 12px;
+    margin: 4rem 20rem;
+}
